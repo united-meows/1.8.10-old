@@ -27,3 +27,4 @@
 - fix the light system
 - less memory usage
 - fix vbo
+- download optifine capes with async
