@@ -22,9 +22,12 @@
 # todo(s)
 
 - fix some rendering issues related to shaders
-- dynamic linking for meowlib
+- dynamic linking for meowlib *
 - load the game async
 - fix the light system
 - less memory usage
 - fix vbo
 - download optifine capes with async
+- loading resource packs without pausing the game
+- fix item rendering
+- fix resource pack bug in 1.8
